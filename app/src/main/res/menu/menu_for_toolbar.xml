@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/ic_vector__57_"
+        android:title=""
+        android:id="@+id/save_menu"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:icon="@drawable/ic_vector__53_"
+        android:title=""
+        android:id="@+id/search_menu"
+        app:showAsAction="always"
+        />
+
+</menu>

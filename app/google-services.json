@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500087031169",
+    "project_id": "writers-ebb2a",
+    "storage_bucket": "writers-ebb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500087031169:android:78d1c455dc59c1645a9480",
+        "android_client_info": {
+          "package_name": "uz.evkalipt.sevenmodullesson51"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500087031169-n80r4u315u9dijdebnfk6ovrmch7avhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC_GMNTyBnj2gUSeOu0M2cqhSTcpkTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500087031169-n80r4u315u9dijdebnfk6ovrmch7avhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

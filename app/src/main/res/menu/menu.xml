@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Adiblar"
+        android:id="@+id/writers_bottom_menu"
+        android:icon="@drawable/ic_vector__50_"
+        />
+
+    <item
+        android:title="Saqlanganlar"
+        android:id="@+id/save_bottom_menu"
+        android:icon="@drawable/ic_vector__51_"
+        />
+
+    <item
+        android:title="Sozlamalar"
+        android:id="@+id/settings_bottom_menu"
+        android:icon="@drawable/ic_vector__52_"
+        />
+
+</menu>
